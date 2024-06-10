@@ -1,5 +1,3 @@
-<h3>Welcome Programmers!</h3>
-<h3>Hello Programmers!</h3>
 ![I am AsitChandraRoy](https://github.com/harun181/harun181/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Asit Chandra roy</h1>
