@@ -1,6 +1,6 @@
 ![I am AsitChandraRoy](https://github.com/AsitChandraRoy/AsitChandraRoy/blob/main/code1.png)
 
-<h1 align="center">👋 Hi, I'm Asit Chandra roy</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Asit Chandra roy</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
 <h4 align="center">Learn with Hablu Programmer</h4>
 
